@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+header{
+    background: purple;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    margin-top: 10px;
+
+}
+h1{
+    padding-top: 60px;
+    margin-left: 35px;
+    color: rgb(105, 52, 155);
+
+}
+.btn-1{
+    
+    border: 5px   solid tan;
+    background-color: tan;
+    width:60px;
+    margin-left: 25px;
+    width: 250px;
+    height: 50px;
+    font-size: 35px;
+   font-family: 'Gill Sans';
+   color: black
+}
+section{
+    background: rgb(223, 190, 148);
+   
+}
+p{ color: tan;
+
+   
+    
+
+}
+.btn-2{
+border: 2px  solid purple;
+background-color: purple;
+
+width: 1800px;
+margin-left: 80px;
+margin-bottom: 20px;
+   
+
+
+}
+.btn-3{
+    border: 2px  solid purple;
+    background-color: purple;
+    
+    width: 1800px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+
+
+}
+
+
+
+
+h2{ color: aqua;}
+footer{
+    background-color: purple;
+    
+    padding-left: 45px;
+}
